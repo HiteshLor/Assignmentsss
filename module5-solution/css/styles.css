@@ -13,10 +13,10 @@ body {
 }
 
 #logo-img {
-  background: url('../images/logo.png') no-repeat;
+  background: url('../images/logo.jpg') no-repeat;
   width: 160px;
   height: 150px;
-  margin: 15px 15px 5px 0;
+  margin: 10px 15px 10px 0;
 }
 
 .navbar-brand {
