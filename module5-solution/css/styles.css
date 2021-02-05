@@ -235,8 +235,6 @@ h3.menu-item-title {
   .container .jumbotron {
     background: url('../images/hotel.jpg') no-repeat;
     height: 675px;
-    border: 2px solid #3F0C1F;
-  }
 }
 
 /********** Medium devices only **********/
